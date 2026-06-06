@@ -6,7 +6,7 @@ I'm Ron, a full-stack developer by day 💻 and a problem solver by night 🚀.
 <p align="left">
 <a href="https://www.linkedin.com/in/ronzano1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7845797/ron-zano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-
+</p>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -21,6 +21,7 @@ I'm Ron, a full-stack developer by day 💻 and a problem solver by night 🚀.
 ### Technologies
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS&logoColor=E0234E)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=.NET)
