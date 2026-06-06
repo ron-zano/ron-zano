@@ -33,10 +33,14 @@ I'm Ron, a full-stack developer by day 💻 and a problem solver by night 🚀.
 ![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=Stripe)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=.NET)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-000?logo=Red%20Hat&logoColor=red)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
 ![Zod](https://img.shields.io/badge/-Zod-000?&logo=Zod)
+
+### GitHub Stats
+![Ron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ron-zano&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ron-zano&layout=compact&theme=dark)
